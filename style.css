@@ -1,0 +1,8 @@
+body {
+    display : flex ;
+    flex-direction : column;
+    align-items:center ;
+    background-image: url('https://proprikol.ru/wp-content/uploads/2021/08/kartinki-tokijskij-gul-18.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
